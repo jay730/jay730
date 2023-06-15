@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jay730
-- 👀 I’m interested in full stack software development
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Software Development and Machine Learning
+- 🌱 I’m currently developing in Python and Javascript
 - 💞️ I’m looking to collaborate on Dynamic webpages
 - 📫 How to reach me 
 
